@@ -15,14 +15,6 @@
         <mxCell id="fk9SJw6ftsK7bPstpn4Y-1" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.workstation_client" value="Client" vertex="1">
           <mxGeometry height="50" width="50" x="-70" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="fk9SJw6ftsK7bPstpn4Y-5" edge="1" parent="1" source="fk9SJw6ftsK7bPstpn4Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" target="fk9SJw6ftsK7bPstpn4Y-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="253" y="70" />
-              <mxPoint x="453" y="70" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fk9SJw6ftsK7bPstpn4Y-2" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.file_server;" value="File Server" vertex="1">
           <mxGeometry height="56" width="45" x="230" y="87" as="geometry" />
         </mxCell>
@@ -58,7 +50,13 @@
           <mxGeometry height="30" width="130" x="440" y="260" as="geometry" />
         </mxCell>
         <mxCell id="h8KboTeERqfswfNuPOU6-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Buscar URLs pré-assinadas" vertex="1">
-          <mxGeometry height="30" width="110" x="290" y="30" as="geometry" />
+          <mxGeometry height="30" width="110" x="370" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h8KboTeERqfswfNuPOU6-6" edge="1" parent="1" source="fk9SJw6ftsK7bPstpn4Y-2" style="html=1;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontSize=14;rounded=0;dashed=1;dashPattern=8 8;" target="fk9SJw6ftsK7bPstpn4Y-4" value="">
+          <mxGeometry height="60" relative="1" width="60" as="geometry">
+            <mxPoint x="370" y="60" as="sourcePoint" />
+            <mxPoint x="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
