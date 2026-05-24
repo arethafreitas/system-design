@@ -163,7 +163,7 @@
           <mxGeometry height="50" width="180" x="-20" y="-190" as="geometry" />
         </mxCell>
         <mxCell id="wbL7IxHjcOV-Fj0oXyci-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SINCRONIZACAO&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="60" width="290" x="-20" y="570" as="geometry" />
+          <mxGeometry height="40" width="220" y="590" as="geometry" />
         </mxCell>
         <mxCell id="wbL7IxHjcOV-Fj0oXyci-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;LOCAL&lt;/h1&gt;" vertex="1">
           <mxGeometry height="35" width="95.62" x="-155.62" y="685" as="geometry" />
