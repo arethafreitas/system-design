@@ -38,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8KboTeERqfswfNuPOU6-2" connectable="0" parent="h8KboTeERqfswfNuPOU6-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Multipart Upload" vertex="1">
+        <mxCell id="h8KboTeERqfswfNuPOU6-2" connectable="0" parent="h8KboTeERqfswfNuPOU6-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" value="Multipart Upload" vertex="1">
           <mxGeometry relative="1" x="-0.2054" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
