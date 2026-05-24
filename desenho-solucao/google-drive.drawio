@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="4D3M8B96T3K3ZtQU1b3x">
-    <mxGraphModel dx="1601" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1828" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,7 +196,7 @@
           <mxGeometry height="43" width="50" x="-149.62" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="wbL7IxHjcOV-Fj0oXyci-14" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Unicons_Line_vol_5-2967/refresh-802.svg" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="85" y="840" as="geometry" />
+          <mxGeometry height="80" width="80" x="80" y="840" as="geometry" />
         </mxCell>
         <mxCell id="wbL7IxHjcOV-Fj0oXyci-17" edge="1" parent="1" source="wbL7IxHjcOV-Fj0oXyci-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="wbL7IxHjcOV-Fj0oXyci-7" value="">
           <mxGeometry relative="1" as="geometry">
