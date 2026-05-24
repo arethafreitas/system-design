@@ -35,9 +35,6 @@
         <mxCell id="fk9SJw6ftsK7bPstpn4Y-8" edge="1" parent="1" source="fk9SJw6ftsK7bPstpn4Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.453;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" target="fk9SJw6ftsK7bPstpn4Y-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fk9SJw6ftsK7bPstpn4Y-12" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Media_File.svg;" value="file" vertex="1">
-          <mxGeometry height="50" width="40.63" x="342" y="10" as="geometry" />
-        </mxCell>
         <mxCell id="fk9SJw6ftsK7bPstpn4Y-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTTP não suporta upload de arquivos muito grandes&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;413: Payload Too Large&lt;div&gt;504: Timeout&lt;/div&gt;&lt;div&gt;408: Request Timeout&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="-70" y="244" as="geometry" />
         </mxCell>
@@ -59,6 +56,9 @@
         </mxCell>
         <mxCell id="h8KboTeERqfswfNuPOU6-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="arquivo com status de pendente no payload" vertex="1">
           <mxGeometry height="30" width="130" x="440" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="h8KboTeERqfswfNuPOU6-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Buscar URLs pré-assinadas" vertex="1">
+          <mxGeometry height="30" width="110" x="290" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
