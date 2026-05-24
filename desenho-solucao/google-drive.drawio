@@ -35,17 +35,30 @@
         <mxCell id="fk9SJw6ftsK7bPstpn4Y-8" edge="1" parent="1" source="fk9SJw6ftsK7bPstpn4Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.453;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" target="fk9SJw6ftsK7bPstpn4Y-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fk9SJw6ftsK7bPstpn4Y-9" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.metadata_file;" value="metadata" vertex="1">
-          <mxGeometry height="39" width="28.000000000000004" x="320" y="180" as="geometry" />
-        </mxCell>
         <mxCell id="fk9SJw6ftsK7bPstpn4Y-12" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Media_File.svg;" value="file" vertex="1">
           <mxGeometry height="50" width="40.63" x="342" y="10" as="geometry" />
         </mxCell>
         <mxCell id="fk9SJw6ftsK7bPstpn4Y-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTTP não suporta upload de arquivos muito grandes&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;413: Payload Too Large&lt;div&gt;504: Timeout&lt;/div&gt;&lt;div&gt;408: Request Timeout&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="40" y="170" as="geometry" />
+          <mxGeometry height="30" width="130" x="-70" y="244" as="geometry" />
         </mxCell>
-        <mxCell id="fk9SJw6ftsK7bPstpn4Y-14" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#f8cecc;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Evericons_16px-2245/x-1294.svg;labelBorderColor=#b85450;imageBackground=default;fontColor=#990000;" value="" vertex="1">
-          <mxGeometry height="16" width="16" x="60" y="87" as="geometry" />
+        <mxCell id="h8KboTeERqfswfNuPOU6-1" edge="1" parent="1" source="fk9SJw6ftsK7bPstpn4Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" target="fk9SJw6ftsK7bPstpn4Y-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-45" y="-40" />
+              <mxPoint x="197" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8KboTeERqfswfNuPOU6-2" connectable="0" parent="h8KboTeERqfswfNuPOU6-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Multipart Upload" vertex="1">
+          <mxGeometry relative="1" x="-0.2054" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8KboTeERqfswfNuPOU6-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="File metadata" vertex="1">
+          <mxGeometry height="30" width="80" x="60" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h8KboTeERqfswfNuPOU6-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="arquivo com status de pendente no payload" vertex="1">
+          <mxGeometry height="30" width="130" x="440" y="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
