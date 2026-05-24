@@ -153,6 +153,9 @@
         <mxCell id="h8KboTeERqfswfNuPOU6-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="atualiza pra uploaded" vertex="1">
           <mxGeometry height="30" width="130" x="470" y="320" as="geometry" />
         </mxCell>
+        <mxCell id="h8KboTeERqfswfNuPOU6-39" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;UPLOAD&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="-20" y="-190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
